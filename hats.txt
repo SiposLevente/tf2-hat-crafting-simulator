@@ -1,0 +1,618 @@
+# Scout
+Bonk Helm
+Ye Olde Baker Boy
+Baseball Bill's Sports Shine
+Troublemaker's Tossle Cap
+Whoopee Cap
+Milkman
+Bombing Run
+Flipped Trilby
+The Superfan
+Bonk Boy
+Hero's Tail
+Sign of the Wolf's School
+Planeswalker Goggles
+El Jefe
+Backwards Ballcap
+Stereoscopic Shades
+Hermes
+Big Elfin Deal
+Bootie Time
+Boston Boom-Bringer
+Fast Learner
+Teufort Tooth Kicker
+Front Runner
+Cross-Comm Express
+Fed-Fightin' Fedora
+Dillinger's Duffel
+Triad Trinket
+Champ Stamp
+Track Terrorizer
+Crafty Hair
+Flunkyware
+Hanger-On Hood
+Flight of the Monarch
+Spooky Shoes
+Spooky Sleeves
+Digit Divulger
+Mutton Mann
+Wilson Weave
+Buck Turner All-Stars
+Tomb Wrapper
+Bacteria Blocker
+Beastly Bonnet
+Cheet Sheet
+Bigg Mann on Campus
+Cool Cat Cardigan
+Greased Lightning
+Caffeine Cooler
+Half-Pipe Hurdler
+Macho Mann
+Delinquent's Down Vest
+Beep Boy
+Weight Room Warmer
+Flapjack
+Frenchman's Formals
+Chucklenuts
+Little Drummer Mann
+Scout Shako
+Runner's Warm-Up
+Sole Saviors
+Ticket Boy
+Frickin' Sweet Ninja Hood
+Southie Shinobi
+Red Socks
+Paisley Pro
+Argyle Ace
+Pomade Prince
+Biomech Backpack
+Alien Cranium
+Xeno Suit
+Bootenkhamuns
+Orion's Belt
+
+# Soldier
+Stainless Pot
+Tyrant's Helm
+Killer's Kabuto
+Sergeant's Drill Hat
+Grenadier's Softcap
+Chieftain's Challenge
+Stout Shako
+Exquisite Rack
+Defiant Spartan
+Hero's Hachimaki
+Team Captain
+Honcho's Headgear
+Pocket Medic
+Furious Fukaamigasa
+Jumper's Jeepcap
+Brain Bucket
+Lord Cockswain's Pith Helmet
+Lord Cockswain's Novelty Mutton Chops and Pipe
+Armored Authority
+Fancy Dress Uniform
+Stahlhelm
+Infernal Impaler
+Hat With No Name
+Ornament Armament
+All-Father
+Kringle Collection
+Lucky Shot
+Battle Bob
+Conquistador
+Captain's Cocktails
+Helmet Without a Home
+Cross-Comm Crash Helmet
+Professor's Pineapple
+War Pig
+Soldier's Stogie
+Menpo
+Bonedolier
+Exorcizor
+Chief Constable
+Deadliest Duckling
+Soldier's Slope Scopers
+Doe-Boy
+Big Daddy
+First American
+Gilded Guard
+Powdered Practitioner
+Cloud Crasher
+Valley Forge
+Compatriot
+Caribbean Conqueror
+Colonial Clogs
+Whirly Warrior
+Rebel Rouser
+Shogun's Shoulder Guard
+Hornblower
+Lieutenant Bites
+Brawling Buccaneer
+Founding Father
+Viking Braider
+Cuban Bristle Crisis
+Slo-Poke
+Toy Soldier
+Antarctic Parka
+Marshall's Mutton Chops
+Ground Control
+Killer's Kit
+Classified Coif
+Spook Specs
+Man in Slacks
+
+# Pyro
+Respectless Rubber Glove
+Brigade Helm
+Triboniophorus Tyrannus
+Whiskered Gentleman
+Vintage Merryweather
+Attendant
+Old Guadalajara
+Napper's Respite
+Handyman's Handle
+Pyromancer's Mask
+Prancer's Pride
+Madame Dixie
+Hottie's Hoodie
+Sight for Sore Eyes
+Connoisseur's Cap
+Dead Cone
+Stately Steel Toe
+Last Breath
+Apparition's Aspect
+Moonman Backpack
+Bubble Pipe
+Little Buddy
+Birdcage
+Flamboyant Flamenco
+Cremator's Conscience
+Head Warmer
+Jingle Belt
+Infernal Orchestrina
+Burning Bongos
+Waxy Wayfinder
+Scrap Pack
+HazMat Headcase
+Russian Rocketeer
+Area 451
+Pyrotechnic Tote
+Wraith Wrap
+Coffin Kit
+DethKapp
+Nose Candy
+Rail Spikes
+Winter Wonderland Wrap
+Person in the Iron Mask
+Breather Bag
+Nabler
+Steel Sixpack
+Centurion
+Mair Mask
+El Muchacho
+Backpack Broiler
+Burning Bandana
+Soot Suit
+Hive Minder
+Pampered Pyro
+Bone Dome
+Air Raider
+Special Eyes
+Trickster's Turnout Gear
+Pop-Eyes
+Blizzard Breather
+Sub Zero Suit
+Trail-Blazer
+Tiny Timber
+Toy Tailor
+Sole Mate
+Cute Suit
+Sengoku Scorcher
+Gas Guzzler
+Smoking Skid Lid
+Lunatic's Leathers
+Employee of the Mmmph
+Frymaster
+Combustible Kabuto
+
+# Demoman
+Glengarry Bonnet
+Scotsman's Stove Pipe
+Hustler's Hallmark
+Tippler's Tricorne
+Rimmed Raincatcher
+Sober Stuntman
+Carouser's Capotain
+Scotch Bonnet
+Prince Tavish's Crown
+Samur-Eye
+Private Eye
+Reggaelator
+Sultan's Ceremonial
+Conjurer's Cowl
+Tam O' Shanter
+Mask of the Shaman
+Tavish DeGroot Experience
+Buccaneer's Bicorne
+A Whiff of the Old Brimstone
+Bolgan
+Aladdin's Private Reserve
+Snapped Pupil
+Liquor Locker
+Bird-Man of Aberdeen
+Bearded Bombardier
+King of Scotland Cape
+K-9 Mane
+Voodoo JuJu (Slight Return)
+Cool Breeze
+Blind Justice
+Tartantaloons
+Tartan Shade
+Dark Age Defender
+Glasgow Great Helm
+Black Watch
+Tartan Spartan
+Gaelic Golf Bag
+Whiskey Bib
+Stormin' Norman
+Gaelic Garb
+Hurt Locher
+Pirate Bandana
+Highland High Heels
+Tartan Tyrolean
+Stylish DeGroot
+Bushi-Dou
+Juggernaut Jacket
+Sangu Sleeves
+Toowoomba Tunic
+Razor Cut
+Frontier Djustice
+Allbrero
+Seeing Double
+Six Pack Abs
+
+# Heavy
+Officer's Ushanka
+Tough Guy's Toque
+Hound Dog
+Heavy Duty Rag
+Pugilist's Protector
+Hard Counter
+Cadaver's Cranium
+Big Chief
+Magnificent Mongolian
+Coupe D'isaster
+Dread Knot
+Large Luchadore
+Capo's Capper
+Copper's Hard Top
+Security Shades
+Big Steel Jaw of Summer Fun
+Pilotka
+Dragonborn Helmet
+Purity Fist
+Cold War Luchador
+One-Man Army
+Outdoorsman
+Gym Rat
+War Head
+Sandvich Safe
+Toss-Proof Towel
+Apparatchik's Apparel
+Soviet Gentleman
+Heavy Artillery Officer's Cap
+Siberian Sophisticate
+Brock's Locks
+Heavy's Hockey Hair
+Carl
+Aqua Flops
+Hunger Force
+Pounding Father
+Der Maschinensoldaten-Helm
+Die Regime-Panzerung
+Little Bear
+Tyurtlenek
+Red Army Robin
+Heavy-Weight Champ
+Tsarboosh
+Katyusha
+Borscht Belt
+Bear Necessities
+Bolshevik Biker
+Gabe Glasses
+Minnesota Slick
+Mann of the House
+Heavy Lifter
+Gone Commando
+Bullet Buzz
+Leftover Trap
+Trash Man
+Rat Stompers
+Warmth Preserver
+War Goggles
+Eliminator's Safeguard
+Combat Slacks
+Sammy Cap
+Yuri's Revenge
+Jungle Booty
+
+# Engineer
+Texas Ten Gallon
+Engineer's Cap
+Texas Slim's Dome Shine
+Hotrod
+Safe'n'Sound
+Buckaroo's Hat
+Industrial Festivizer
+Western Wear
+Big Country
+Professor's Peculiarity
+Teddy Roosebelt
+Googly Gazer
+Ol' Geezer
+Hetman's Headpiece
+Prairie Heel Biters
+Pip-Boy
+Wingstick
+Brainiac Hairpiece
+Brainiac Goggles
+Pencil Pusher
+Builder's Blueprints
+Virtual Reality Headset
+Itsy Bitsy Spyer
+Stocking Stuffer
+Texas Half-Pants
+Idea Tube
+Pocket Purrer
+Barnstormer
+Prize Plushy
+Grizzled Growth
+Last Straw
+Vox Diabolus
+Mister Bubbles
+Pocket Pyro
+Trash Toter
+Dry Gulch Gulp
+Pardner's Pompadour
+Flared Frontiersman
+Gold Digger
+Face Full of Festive
+Dogfighter
+Trencher's Topper
+Trencher's Tunic
+Ein
+Scotch Saver
+Antarctic Researcher
+Tools of the Trade
+Joe-on-the-Go
+Peacenik's Ponytail
+Level Three Chin
+Egghead's Overalls
+Lonesome Loafers
+Endothermic Exowear
+Danger
+
+# Medic
+Vintage Tyrolean
+Otolaryngologist's Mirror
+Physician's Procedure Mask
+Ze Goggles
+Gentleman's Gatsby
+Berliner's Bucket Helm
+Blighted Beak
+German Gonzila
+Geisha Boy
+Medic's Mountain Cap
+Grimm Hatte
+Doctor's Sack
+Planeswalker Helm
+Surgeon's Stahlhelm
+Couvre Corner
+Surgeon's Stethoscope
+Dr. Whoa
+Nine-Pipe Problem
+Quadwrangler
+Surgeon's Side Satchel
+Gentleman's Ushanka
+Medi-Mask
+Archimedes
+Combat Medic's Crusher Cap
+Foppish Physician
+Der Wintermantel
+Doc's Holiday
+Weather Master
+Das Hazmattenhatten
+Das Feelinbeterbager
+Das Ubersternmann
+Das Metalmeatencasen
+Das Naggenvatcher
+Das Maddendoktor
+Das Gutenkutteharen
+Baron von Havenaplane
+Das Fantzipantzen
+Medical Mystery
+A Brush with Death
+Slick Cut
+Ward
+Nunhood
+Angel of Death
+Mann of Reason
+Ruffled Ruprecht
+Fashionable Megalomaniac
+Dough Puncher
+Teutonic Toque
+Heat of Winter
+Colonel's Coat
+Smock Surgeon
+Heer's Helmet
+Gaiter Guards
+Ze Übermensch
+Medicine Manpurse
+Chronoscarf
+
+# Sniper
+Professional's Panama
+Master's Yellow Belt
+Ritzy Rick's Hair Fixative
+Shooter's Sola Topi
+Bloke's Bucket Hat
+Ol' Snaggletooth
+Larrikin Robin
+Crocleather Slouch
+Villain's Veil
+Desert Marauder
+Anger
+Your Worst Nightmare
+Crocodile Smile
+Swagman's Swatter
+Outback Intellectual
+Bushman's Boonie
+Fruit Shoot
+Doublecross-Comm
+Liquidator's Lid
+Lone Star
+Koala Compact
+Stovepipe Sniper Shako
+Sir Hootsalot
+Cold Killer
+Sydney Straw Boat
+Steel Songbird
+Criminal Cloak
+Dread Hiding Hood
+Birdman of Australiacatraz
+Cobber Chameleon
+Falconer
+Wet Works
+Chronomancer
+Brim-Full of Bullets
+Li'l Snaggletooth
+Snow Scoper
+Five-Month Shadow
+Golden Garment
+Extra Layer
+Huntsman's Essentials
+Archer's Groundings
+Deep Cover Operator
+Scoper's Smoke
+Triggerman's Tacticals
+
+# Spy
+Camera Beard
+Backbiter's Billycock
+Magistrate's Mullet
+Frenchman's Beret
+Familiar Fez
+Détective Noir
+Le Party Phantom
+Noh Mercy
+Charmer's Chapeau
+Janissary Ketche
+Cosa Nostra Cap
+Made Man
+Rogue's Col Roule
+Nanobalaclava
+Counterfeit Billycock
+L'Inspecteur
+Spectre's Spectacles
+Dashin' Hashshashin
+Sneaky Spats of Sneaking
+Business Casual
+Hat of Cards
+Lacking Moral Fiber Mask
+Distinguished Rogue
+Scarecrow
+Cut Throat Concierge
+Pom-Pommed Provocateur
+Harmburg
+Rogue's Brogues
+Belgian Detective
+Blood Banker
+After Dark
+L'homme Burglerre
+Escapist
+Backstabber's Boomslang
+Napoleon Complex
+Rogue's Robe
+Aviator Assassin
+Sky Captain
+Au Courant Assassin
+
+# Allclass
+Towering Pillar of Hats
+Noble Amassment of Hats
+Modest Pile of Hat
+Dr's Dapper Topper
+Horrific Headsplitter
+A Rather Festive Tree
+The Athletic Supporter
+Deus Specs
+Company Man
+Killer Exclusive
+Mark of the Saint
+Salty Dog
+Hot Dogger
+Flair!
+Photo Badge
+Clan Pride
+Point and Shoot
+Brown Bomber
+Warsworn Helmet
+Bolgan Family Crest
+Merc Medal
+Balloonicorn
+Atomic Accolade
+Marxman
+Human Cannonball
+Awesomenauts Badge
+Vigilant Pin
+Heroic Companion Badge
+Rump-o'-Lantern
+Whale Bone Charm
+Crone's Dome
+Executioner
+Cockfighter
+Hitt Mann Badge
+That '70s Chapeau
+Tuxxy
+Faerie Solitaire Pin
+Tough Stuff Muffs
+Merc's Muffler
+Smissmas Wreath
+Antlers
+Reindoonicorn
+Brütal Bouffant
+Croft's Crest
+Fortune Hunter
+Baronial Badge
+Crosslinker's Coil
+Hardy Laurel
+Brotherhood of Arms
+Well-Rounded Rifleman
+Breakneck Baggies
+Graybanns
+Federal Casemaker
+Virtual Viewfinder
+Cotton Head
+Hong Kong Cone
+Dictator
+Neckwear Headwear
+Dead of Night
+Kiss King
+Polar Pullover
+Mustachioed Mann
+Dark Falkirk Helm
+Law
+Bruiser's Bandanna
+Merc's Mohawk
+Eye-Catcher
+Vive La France
+Tipped Lid
+MK 50
+Dadliest Catch
+Crown of the Old Kingdom
+Tomb Readers
+Brimstone
+Pocket Raiders
+Prinny Pouch
+Prinny Hat
