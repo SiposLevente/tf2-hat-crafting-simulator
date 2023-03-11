@@ -56,7 +56,7 @@ if __name__ == "__main__":
             print_owned_hats()
             print_profit()
             try:
-                print("Menu:\n1, Craft a hat!\n2, Craft 'n' hats\n3, Exit!")
+                print("Menu:\n1, Craft a hat!\n2, Craft 'n' hats!\n3, Clear Inventory!\n4, Exit!")
                 user_input = int(input())
                 if user_input == 1:
                     craft_hat()
@@ -68,8 +68,11 @@ if __name__ == "__main__":
 
                     except ValueError:
                         print("Invalid input! Returning to menu")
-
                 elif user_input == 3:
+                    crafted_hats.clear();
+                    crafted_hat_value = 0.0
+                    spent_metal_value = 0
+                elif user_input == 4:
                     gameloop = False
             except ValueError:
                 print("Unexpected value! Please enter the input again!")
